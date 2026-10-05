@@ -63,7 +63,7 @@ Below is a breakdown of top SaaS low-code platforms, sorted by **Company Size / 
 
 Open-source low-code tools offer complete self-hosting freedom, full control over enterprise security compliance, and zero vendor lock-in.
 
-Below are the top open-source low-code frameworks, sorted by **GitHub Stars (Descending)**:
+Below are the top open-source low-code frameworks, sorted by **GitHub_Stars (Descending)**:
 
 - [<img src="https://img.shields.io/github/stars/supabase/supabase?style=social&color=white" alt="Supabase Stars"/>](https://github.com/supabase/supabase/stargazers) **[Supabase](https://github.com/supabase/supabase)** ⚡  
   The open-source Firebase alternative providing auto-generated APIs, real-time Postgres database, authentication, and storage.
@@ -109,7 +109,7 @@ Contributions are welcome! Please follow these simple steps to contribute:
 
 1. 🍴 **Fork** this repository.
 2. ➕ **Add or edit** entries in `README.md` keeping formatting consistent.
-3. ℹ️ Include the project name, link, concise 1-2 sentence description, pricing/star badges, and category.
+3. ℹ️ Include the project name, link, concise 1-2 sentence description, pricing/Stars_Badges, and category.
 4. 📬 Submit a **Pull Request** with a brief summary of changes.
 
 ---
